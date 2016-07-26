@@ -7,7 +7,7 @@ require('styles//Icons.styl');
 
 class ButtonIcon extends React.Component {
   render() {
-    let svg = require('file!@salesforce-ux/design-system/assets/icons/' + (this.props.category ? this.props.category : 'utility') + '-sprite/svg/symbols.svg');
+    let svg = require('file!@salesforce-ux/design-system/assets/icons/' + this.props.category + '-sprite/svg/symbols.svg');
     let useTag = '<use xlink:href="' + svg + '#' + this.props.name + '" />';
     let className  = 'slds-button__icon';
     if (this.props.stateful) {

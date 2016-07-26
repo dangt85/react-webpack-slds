@@ -51,9 +51,9 @@ class ActivityTimelineComponent extends React.Component {
 			      <div className="slds-media__figure slds-media__figure--reverse">
 			        <div className="slds-timeline__actions">
 			          <p className="slds-timeline__date">Feb 24</p>
-			          <button className="slds-button slds-button--icon-border-filled slds-button--icon-x-small">
-			            <ButtonIcon category="standard" name="switch" />
-			            <span className="slds-assistive-text">Switch</span>
+			          <button className="slds-button slds-button--icon-border-filled">
+			            <ButtonIcon category="utility" name="down" />
+			            <span className="slds-assistive-text">More</span>
 			          </button>
 			        </div>
 			      </div>
@@ -92,9 +92,9 @@ class ActivityTimelineComponent extends React.Component {
 			      <div className="slds-media__figure slds-media__figure--reverse">
 			        <div className="slds-timeline__actions">
 			          <p className="slds-timeline__date">Feb 24</p>
-			          <button className="slds-button slds-button--icon-border-filled slds-button--icon-x-small">
-			            <ButtonIcon category="standard" name="switch" />
-			            <span className="slds-assistive-text">Switch</span>
+			          <button className="slds-button slds-button--icon-border-filled">
+			            <ButtonIcon category="utility" name="down" />
+			            <span className="slds-assistive-text">More</span>
 			          </button>
 			        </div>
 			      </div>
@@ -129,9 +129,9 @@ class ActivityTimelineComponent extends React.Component {
 			      <div className="slds-media__figure slds-media__figure--reverse">
 			        <div className="slds-timeline__actions">
 			          <p className="slds-timeline__date">Feb 24</p>
-			          <button className="slds-button slds-button--icon-border-filled slds-button--icon-x-small">
-			            <ButtonIcon category="standard" name="switch" />
-			            <span className="slds-assistive-text">Switch</span>
+			          <button className="slds-button slds-button--icon-border-filled">
+			            <ButtonIcon category="utility" name="down" />
+			            <span className="slds-assistive-text">More</span>
 			          </button>
 			        </div>
 			      </div>
@@ -166,9 +166,9 @@ class ActivityTimelineComponent extends React.Component {
 			      <div className="slds-media__figure slds-media__figure--reverse">
 			        <div className="slds-timeline__actions">
 			          <p className="slds-timeline__date">Feb 24</p>
-			          <button className="slds-button slds-button--icon-border-filled slds-button--icon-x-small">
-			            <ButtonIcon category="standard" name="switch" />
-			            <span className="slds-assistive-text">Switch</span>
+			          <button className="slds-button slds-button--icon-border-filled">
+			            <ButtonIcon category="utility" name="down" />
+			            <span className="slds-assistive-text">More</span>
 			          </button>
 			        </div>
 			      </div>
